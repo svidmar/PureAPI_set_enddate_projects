@@ -1,7 +1,7 @@
 
-# End Date Updater Script
+# Pure Project End Date Updater Script
 
-This script is designed to automatically update projects without an assigned end date in Pure's API by setting an end date three years after the project start date. It then adds a note to indicate that the end date is estimated and that the project is presumed inactive. The script also provides logging for all actions and skips projects that already have an end date.
+This script is designed to automatically update projects in Pure without an assigned end date in Pure's API by setting an end date three years after the project start date. It then adds a note to indicate that the end date is estimated and that the project is presumed inactive. The script also provides logging for all actions and skips projects that already have an end date.
 
 ## Features
 
